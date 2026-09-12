@@ -55,4 +55,3 @@ The pack comes pre-loaded with a carefully selected variety of resource packs to
 - **Enchantment Outlines & Icons:** Subtle UI and visual tweaks to make inventories look cleaner.
 - **Cobblemon Interface Modded:** Custom UI elements for those integrating Cobblemon.
 - **Low Shield & LowOnFire:** Adjusts obstructive visual elements, lowering the shield and fire height for better visibility during combat.
-- *Note: Faithful 64x is included in the modpack files but is disabled by default.*
