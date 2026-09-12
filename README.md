@@ -55,12 +55,6 @@ Beautiflized is a visual and performance-focused Minecraft modpack designed to m
 - Improved compatibility between visual enhancements and the underlying Fabric ecosystem
 - A collection of small improvements intended to make everyday Minecraft gameplay feel smoother and more polished
 
-## Versions
-
-- **Minecraft:** 26.1
-- **Fabric Loader:** 0.19.5
-- **Pack version:** 2.0.0
-
 ## What Beautiflized is for
 
 Beautiflized is made for players who want Minecraft to look noticeably better while still keeping performance as a priority. It combines visual enhancements, shaders, resource-pack improvements, performance optimization, and quality-of-life features into one cohesive setup.
